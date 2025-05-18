@@ -1,0 +1,3 @@
+python-dotenv
+pytimeparse
+python-telegram-bot
